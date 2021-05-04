@@ -147,7 +147,9 @@ class ViewController: UIViewController {
         rabbitArray[random].isHidden = false
     }
     
-    
+    @objc func deneme(){
+        print("tolga")
+    }
 
 }
 
